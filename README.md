@@ -11,7 +11,7 @@
 
 ## Github Stats 📊
 
-![KwnxpN's Stats](https://github-readme-stats.vercel.app/api?username=KwnxpN&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![KwnxpN's Stats](https://github-readme-stats.vercel.app/api?username=KwnxpN&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![KwnxpN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KwnxpN&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## Connect with Me 🤝
