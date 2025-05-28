@@ -6,7 +6,7 @@
 
 ## Skills 💻<br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,python,java,c" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,python,java" />
 </p>
 
 ## Github Stats 📊
