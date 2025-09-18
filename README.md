@@ -11,7 +11,7 @@
 
 ## Github Stats 📊
 
-![KwnxpN's Stats](https://github-readme-stats.vercel.app/api?username=KwnxpN&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwnxpN&show_icons=true&theme=vue-dark)
 
 ## Connect with Me 🤝
 
