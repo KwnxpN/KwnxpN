@@ -9,19 +9,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,vue,nuxtjs,python,java" />
 </p>
 
-## Github Stats 📊
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwnxpN&show_icons=true&theme=vue-dark)
-
 ## Connect with Me 🤝
 
-<a href="https://www.facebook.com/kawin.tn" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/kwnxp.n" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-</a>
+Email : [tonnum.kawin@gmail.com](mailto:tonnum.kawin@gmail.com)
 
 
 <hr>
